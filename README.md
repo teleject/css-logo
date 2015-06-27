@@ -5,8 +5,10 @@ Inspired by the [JS community's logo](https://github.com/voodootikigod/logo.js) 
 
 "If you like it, use it. If you don't, that's cool, too." 
 
-Just don't complain about it unless you submit your own alternative to Twitter with the tag #csslogo. I am releasing this under a MIT license so you can print it on anything, use it anywhere, and never have to worry about royalties, licenses, and other such things.
+If you want to update or refine the logo, please submit an issue or create a pull request. 
 
-Excelsior! 
+I am releasing this under a MIT license so you can print it on anything, use it anywhere, and never have to worry about royalties, licenses, and other such things.
 
-![CSS Logo](https://raw.githubusercontent.com/teleject/css-logo/master/css-logo-squares-blue.png "CSS Logo Example")
+Be bold, baby!
+
+![CSS Logo](https://raw.githubusercontent.com/teleject/logo.css/master/css.png "CSS Logo")
