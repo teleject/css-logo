@@ -9,6 +9,6 @@ If you want to update or refine the logo, please submit an issue or create a pul
 
 I am releasing this under a MIT license so you can print it on anything, use it anywhere, and never have to worry about royalties, licenses, and other such things.
 
-Be bold, baby!
-
 ![CSS Logo](https://raw.githubusercontent.com/teleject/logo.css/master/css.png "CSS Logo")
+
+[Christopher Schmitt](http://twitter.com.com/teleject)
